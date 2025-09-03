@@ -22,8 +22,16 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.EN" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="English",NHKWORLD
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-
-
-
-
+#EXTINF:-1 tvg-id="BBCEarth.EN" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="English",trtworld
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="news",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-id="GZT.tr" tvg-name="GZT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/320px-GZT_logo.svg.png" group-title="documentary;series",GZT
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="CGTNDocumentary.tr" tvg-name="CGTN Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png" group-title="documentary",CGTN Documentary
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="Undefined",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 
