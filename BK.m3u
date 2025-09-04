@@ -43,4 +43,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="GoUSATV.us" tvg-name="GoUSA TV" tvg-logo="https://i.imgur.com/x90ALip.png" group-title="travel",GoUSA TV
 https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="sports",NBA TV
+https://fl3.moveonjoy.com/NBA_TV/index.m3u8
 
