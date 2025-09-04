@@ -37,5 +37,10 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="IntheKitchen.us" tvg-name="In the Kitchen" tvg-logo="https://i.imgur.com/HrRUd6r.png" group-title="shop;cooking",In the Kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
-
+#EXTM3U
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-name="PBS Kids Eastern/Central" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="education;kids",PBS Kids Eastern/Central
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="GoUSATV.us" tvg-name="GoUSA TV" tvg-logo="https://i.imgur.com/x90ALip.png" group-title="travel",GoUSA TV
+https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 
