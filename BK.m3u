@@ -34,5 +34,8 @@ https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="Turkish",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="IntheKitchen.us" tvg-name="In the Kitchen" tvg-logo="https://i.imgur.com/HrRUd6r.png" group-title="shop;cooking",In the Kitchen
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 
 
