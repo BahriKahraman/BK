@@ -52,5 +52,9 @@ https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-in
 #EXTM3U
 #EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-name="The Jamie Oliver Channel" tvg-logo="https://i.imgur.com/4v93XUB.png" group-title="cooking;English",The Jamie Oliver Channel
 https://jamieoliver-xumo.amagi.tv/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="business;English",CNBC
+https://fl3.moveonjoy.com/CNBC/index.m3u8
+
 
 
