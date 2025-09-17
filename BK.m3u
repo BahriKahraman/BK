@@ -24,6 +24,9 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.EN" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="news;English",trtworld
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="NTDTV.us" tvg-name="NTD TV" tvg-logo="https://i.postimg.cc/XYGstDdJ/ntdtv.png" group-title="news;English",NTD TV
+https://amg17596-ntdtv-amg17596c1-stirr-us-4738.playouts.now.amagi.tv/ntd.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="news",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="GZT.tr" tvg-name="GZT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/320px-GZT_logo.svg.png" group-title="documentary;Turkish",GZT
@@ -91,3 +94,4 @@ https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="AMGTV.us" tvg-name="AMG TV" tvg-logo="https://i.imgur.com/m5Anun9.png" group-title="family;English",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+
