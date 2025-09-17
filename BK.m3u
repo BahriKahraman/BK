@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Turkish",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Turkish",Kanal D (1080p)
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Turkish",Show TV-480
@@ -94,4 +96,5 @@ https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="AMGTV.us" tvg-name="AMG TV" tvg-logo="https://i.imgur.com/m5Anun9.png" group-title="family;English",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+
 
