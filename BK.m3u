@@ -2,16 +2,12 @@
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Turkish",Kanal D (1080p)
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Turkish",Show TV-480
-https://ciner.daioncdn.net/showtv/showtv_480p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7cswdiw7lybt&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Turkish",TRT Belgesel (1080p)
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Turkish",Show TV-1080
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7cswdiw7lybt&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Turkish",Show TV-720
-https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7cswdiw7lybt&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Turkish",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Turkish",TRT Belgesel (1080p)
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/6tv0zxh.png" group-title="Turkish",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="Turkish",TRT Spor Yildiz (1080p)
@@ -104,4 +100,5 @@ https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="Choppertown.us" tvg-name="Choppertown" tvg-logo="https://i.imgur.com/U6cu5Ms.png" group-title="series;English",Choppertown
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+
 
