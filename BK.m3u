@@ -18,7 +18,7 @@ http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTM3U
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="Turkish",NOW TV
-http://116.202.238.88/FOXTV_TR/index.m3u8
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=PoM-rHaVwpB_SE8wBBAiug&e=1760964766
 #EXTM3U
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Turkish",TRT Belgesel (1080p)
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
@@ -123,6 +123,7 @@ https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="Choppertown.us" tvg-name="Choppertown" tvg-logo="https://i.imgur.com/U6cu5Ms.png" group-title="series;English",Choppertown
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+
 
 
 
