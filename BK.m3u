@@ -9,7 +9,7 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&amp;ce=3
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7cswdiw7lybt&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 #EXTM3U
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Turkish",Star TV
-https://dogus-live.daioncdn.net/startv/startv.m3u8
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7ufggiyu05ov&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 #EXTM3U
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.postimg.cc/mkNFsP0g/atv.png" group-title="Turkish",ATV
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
@@ -123,6 +123,7 @@ https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="Choppertown.us" tvg-name="Choppertown" tvg-logo="https://i.imgur.com/U6cu5Ms.png" group-title="series;English",Choppertown
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+
 
 
 
