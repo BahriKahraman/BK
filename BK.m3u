@@ -18,7 +18,7 @@ https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1761080308&st=9ppLuSQRbRjjy3e29Z
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTM3U
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="Turkish",NOW TV
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=desktop_web&st=JJw90M6BfiefdrXqEBmNmw&e=1761236265
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=mobile_web&st=pwegVUqcuoqOr5GNHwLF9A&e=1761342326
 #EXTM3U
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Turkish",TRT Belgesel (1080p)
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=7ufgqrgja0dw&app=71ff325a-50b6-48f4-8a67-3daa89386c24&ce=2
@@ -123,6 +123,7 @@ https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="Choppertown.us" tvg-name="Choppertown" tvg-logo="https://i.imgur.com/U6cu5Ms.png" group-title="series;English",Choppertown
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+
 
 
 
