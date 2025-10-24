@@ -53,9 +53,6 @@ https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.tr" tvg-name="CGTN Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png" group-title="documentary;English",CGTN Documentary
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="Turkish",TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="IntheKitchen.us" tvg-name="In the Kitchen" tvg-logo="https://i.imgur.com/HrRUd6r.png" group-title="cooking;English",In the Kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 #EXTM3U
@@ -71,44 +68,14 @@ https://livetv-fa.tubi.video/kartoon/kc_co.m3u8
 #EXTINF:-1 tvg-id="GoUSATV.us" tvg-name="GoUSA TV" tvg-logo="https://i.imgur.com/x90ALip.png" group-title="travel;English",GoUSA TV
 https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="sports;English",NBA TV
-https://fl25.moveonjoy.com/NBA_TV/index.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/xP7Ehn8.png" group-title="cooking;English",Tastemade
 https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-name="The Jamie Oliver Channel" tvg-logo="https://i.imgur.com/4v93XUB.png" group-title="cooking;English",The Jamie Oliver Channel
 https://jamieoliver-xumo.amagi.tv/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="business;English",CNBC
-https://fl3.moveonjoy.com/CNBC/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" tvg-logo="https://i.imgur.com/c2esKHg.png" group-title="series;English",Baywatch
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce97-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f25ee872-2318-41f5-9217-d8d7a6edc084
-#EXTM3U
-#EXTINF:-1 tvg-id="AntiquesRoadshowUK.us" tvg-name="Antiques Roadshow UK" tvg-logo="https://i.imgur.com/rKWLv48.png" group-title="series;English",Antiques Roadshow UK
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce91-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fd6309c0-a880-4cee-b80b-1c3f4c578b9e
-#EXTM3U
-#EXTINF:-1 tvg-id="UnsolvedMysteries.us" tvg-name="Unsolved Mysteries" tvg-logo="https://i.imgur.com/De3khrX.png" group-title="series;English",Unsolved Mysteries
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc202-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d38cc26-1fa3-46f8-bb13-79fb665ae910
-#EXTM3U
-#EXTINF:-1 tvg-id="ThisOldHouse.us" tvg-name="This Old House" tvg-logo="https://i.imgur.com/nrVLyE6.png" group-title="series;English",This Old House
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9483c3b5-d057-42f4-8da0-57c5bf2344ab
-#EXTM3U
-#EXTINF:-1 tvg-id="JudgeNosey.us" tvg-name="Judge Nosey" tvg-logo="https://i.imgur.com/S4r98AB.png" group-title="series;English",Judge Nosey
-https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="Cops.us" tvg-name="Cops" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="series;English",Cops
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e22-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=61a222b5-87a2-410f-a84b-7319bf133c3a
-#EXTM3U
-#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="series;movies;English",Paramount Network
-https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="HellsKitchen.us" tvg-name="Hell's Kitchen" tvg-logo="https://i.imgur.com/P9eT0O9.png" group-title="cooking;series;English",Hell's Kitchen
 https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="Ovation.us" tvg-name="Ovation" tvg-logo="https://i.imgur.com/A3o9gvc.png" group-title="culture;English",Ovation
-https://fl3.moveonjoy.com/Ovation/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="PositivTV.us" tvg-name="Positiv TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Positiv_TV_Network_Logo.png" group-title="family;English",Positiv TV
 https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
@@ -122,53 +89,23 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="Choppertown.us" tvg-name="Choppertown" tvg-logo="https://i.imgur.com/U6cu5Ms.png" group-title="series;English",Choppertown
-
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="Turkish",NOW TV
-#EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="Turkish",NOW TV
 https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=mobile_web&st=pwegVUqcuoqOr5GNHwLF9A&e=1761342326
-#EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="Turkish",NOW TV
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=desktop_web&st=pwegVUqcuoqOr5GNHwLF9A&e=1761342326
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=pwegVUqcuoqOr5GNHwLF9A&e=1761342326
-https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1
-https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1761335131&st=CqE-lq4jO9KLZ9OFFADOvQ&tv=1
-https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiispor/trt-tabiispor-hls-drm/trt-tabiispor.m3u8
 https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabii-tv/tabii-tv-hls-drm/trt-tabii-tv.m3u8
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
 https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiicocuk/trt-tabiicocuk-hls-drm/trt-tabiicocuk.m3u8
-https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=clean
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
-https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/6tv0zxh.png" group-title="Turkish",tabii-spor1
 https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabii-spor1/trt-tabii-spor1-hls-drm/trt-tabii-spor1.m3u8
-https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/6tv0zxh.png" group-title="Turkish",tabii-spor2
 https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiispor2/trt-tabiispor2-hls-drm/trt-tabiispor2.m3u8
-https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/6tv0zxh.png" group-title="Turkish",tabii-spor3
-https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiispor3/trt-tabiispor3-hls-drm/trt-tabiispor3.m3u8
-https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
-https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiispor4/trt-tabiispor4-hls-drm/trt-tabiispor4.m3u8
-https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
-https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiispor5/trt-tabiispor5-hls-drm/trt-tabiispor5.m3u8
-https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
-https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiispor6/trt-tabiispor6-hls-drm/trt-tabiispor6.m3u8
-https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.postimg.cc/mkNFsP0g/atv.png" group-title="Turkish",ATV
 https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1761373854&st=upULamuR-aXSPX-Z0BZyRw&sid=7uusgi4vq7yq&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.postimg.cc/mkNFsP0g/atv.png" group-title="Turkish",ATV
 https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=upULamuR-aXSPX-Z0BZyRw&e=1761373854&ppid=5e751fcb687d211be5b1ca5fe07b6269&gdpr=0&dfp_paln=AQzzBGQEI_2EZs6CjvR7EimV3_36wpAHEbbR67MWg3XGkvk3-bCgMEE0Ubvd3eNjRkl0pzMO2CZWoxGN1blL_GP50tWaBb_P4TyKDYslOteZH8ifvb5PEuWx3QaingyDDpmCJ7sJJQIVYwXGnnFOhchQO2VNQ7aC-Qb8eG1u3vbou3XUKouh8pmuNKqmFoza6uD3BEbH_ssrsbtTSbpwF9DfDnzczp8uFyJ97HyCPAbNfLKSBJXyJy1HwH8PwE-dkdbCH2RQXvjzkCZde0J7xNDJhTzN7leGwKZDeVEjJdTzrHa_kkeJKENbk5cXs8z1guOM2-MDceCiajdv2YKlacmSHrH--oejhT4Yb7rCZGIF4PWf__Q5rLYVmMgiCAvqULwP8BG_FZ3C0fTqVekJepJGHrD8aLcWY9EgRr5nxi_iT4kMBVQR10poH2ICfJhZKqU494ZEybvK49b5RMY89FCK4V3Zpxy34LUD4ZMoT7RUi31B_5h1L0Ii8V0L9EAioc0yx2BQPe_r1gGePZvDM9j6o1q3L6_o2Dyxs8_opZW-tXDD_LT3r-Onag1zKBtt6ZEKMRKlSCDpzzyt_CFHsEiVuVj96RCyabb_LdbFc_Kdp75LAjcHl_ZqxbUC9b0XAu757lQZiLm_mZVvbGoLhTeGNHCArqbdPMG7CV-pvLZ6N6c_lSWsoMn7CqJ2R-wy820OGJF7bFFzsqKP7-Gr0lUNN87GE63uS6Pxd8wHVdnuNu_Ef3E2JiqTyWvy2llX1S_HP9XLol8zqxIYHMIrfQ3GgkgKU-aSsIrRVhlUBXXMC5Jo0HgHaw_1nr9TH01ONfB4W_O3nOxN39SRNuuH7sYsjbdZVXeAg02-2O3pehT_jSfzyQ1LnHX-Zzog2Gh2UE0PQwTPWsiKaIVanGyu6NAjjqg5z0w1FzaVvoR3QhzGjF2ZytSYM_2KUNr-yK-URm_WQ_6YUKr9yprov7-UL37neGfWeOq84MKNNapAxk9oGgEp1pXilqFIBD_VoVoRnYT3HNukTZ03sfH3qjW9oybo
+
 
 
 
