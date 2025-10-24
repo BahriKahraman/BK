@@ -12,22 +12,22 @@ https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7ufggiyu05ov&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 #EXTM3U
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.postimg.cc/mkNFsP0g/atv.png" group-title="Turkish",ATV
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1761080308&st=9ppLuSQRbRjjy3e29ZLgfg&sid=7uio0y5r3vmr&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 #EXTM3U
 #EXTINF:-8 tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png" group-title="Turkish",TV 8 (1080p)
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTM3U
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="Turkish",NOW TV
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=PoM-rHaVwpB_SE8wBBAiug&e=1760964766
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=desktop_web&st=JJw90M6BfiefdrXqEBmNmw&e=1761236265
 #EXTM3U
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Turkish",TRT Belgesel (1080p)
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=7ufgqrgja0dw&app=71ff325a-50b6-48f4-8a67-3daa89386c24&ce=2
 #EXTM3U
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/6tv0zxh.png" group-title="Turkish",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="Turkish",TRT Spor Yildiz (1080p)
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=clean
 #EXTM3U
 #EXTINF:-1 tvg-id="BBCEarth.EN" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="documentary;English",BBCEarth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
@@ -123,6 +123,7 @@ https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="Choppertown.us" tvg-name="Choppertown" tvg-logo="https://i.imgur.com/U6cu5Ms.png" group-title="series;English",Choppertown
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+
 
 
 
