@@ -146,8 +146,10 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabii-spor1" tvg-name="tabii-spor1"
 https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabii-spor1/trt-tabii-spor1-hls-drm/trt-tabii-spor1.m3u8
 https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor2" tvg-name="tabii-spor2"
 https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiispor2/trt-tabiispor2-hls-drm/trt-tabiispor2.m3u8
 https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
 https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiispor3/trt-tabiispor3-hls-drm/trt-tabiispor3.m3u8
@@ -158,8 +160,11 @@ https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiispor5/trt-ta
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiispor6/trt-tabiispor6-hls-drm/trt-tabiispor6.m3u8
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV"
 https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1761373854&st=upULamuR-aXSPX-Z0BZyRw&sid=7uusgi4vq7yq&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.postimg.cc/mkNFsP0g/atv.png" group-title="Turkish",ATV
 https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=upULamuR-aXSPX-Z0BZyRw&e=1761373854&ppid=5e751fcb687d211be5b1ca5fe07b6269&gdpr=0&dfp_paln=AQzzBGQEI_2EZs6CjvR7EimV3_36wpAHEbbR67MWg3XGkvk3-bCgMEE0Ubvd3eNjRkl0pzMO2CZWoxGN1blL_GP50tWaBb_P4TyKDYslOteZH8ifvb5PEuWx3QaingyDDpmCJ7sJJQIVYwXGnnFOhchQO2VNQ7aC-Qb8eG1u3vbou3XUKouh8pmuNKqmFoza6uD3BEbH_ssrsbtTSbpwF9DfDnzczp8uFyJ97HyCPAbNfLKSBJXyJy1HwH8PwE-dkdbCH2RQXvjzkCZde0J7xNDJhTzN7leGwKZDeVEjJdTzrHa_kkeJKENbk5cXs8z1guOM2-MDceCiajdv2YKlacmSHrH--oejhT4Yb7rCZGIF4PWf__Q5rLYVmMgiCAvqULwP8BG_FZ3C0fTqVekJepJGHrD8aLcWY9EgRr5nxi_iT4kMBVQR10poH2ICfJhZKqU494ZEybvK49b5RMY89FCK4V3Zpxy34LUD4ZMoT7RUi31B_5h1L0Ii8V0L9EAioc0yx2BQPe_r1gGePZvDM9j6o1q3L6_o2Dyxs8_opZW-tXDD_LT3r-Onag1zKBtt6ZEKMRKlSCDpzzyt_CFHsEiVuVj96RCyabb_LdbFc_Kdp75LAjcHl_ZqxbUC9b0XAu757lQZiLm_mZVvbGoLhTeGNHCArqbdPMG7CV-pvLZ6N6c_lSWsoMn7CqJ2R-wy820OGJF7bFFzsqKP7-Gr0lUNN87GE63uS6Pxd8wHVdnuNu_Ef3E2JiqTyWvy2llX1S_HP9XLol8zqxIYHMIrfQ3GgkgKU-aSsIrRVhlUBXXMC5Jo0HgHaw_1nr9TH01ONfB4W_O3nOxN39SRNuuH7sYsjbdZVXeAg02-2O3pehT_jSfzyQ1LnHX-Zzog2Gh2UE0PQwTPWsiKaIVanGyu6NAjjqg5z0w1FzaVvoR3QhzGjF2ZytSYM_2KUNr-yK-URm_WQ_6YUKr9yprov7-UL37neGfWeOq84MKNNapAxk9oGgEp1pXilqFIBD_VoVoRnYT3HNukTZ03sfH3qjW9oybo
+
 
 
 
