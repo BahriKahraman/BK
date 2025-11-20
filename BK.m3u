@@ -12,7 +12,7 @@ https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7ufggiyu05ov&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 #EXTM3U
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.postimg.cc/mkNFsP0g/atv.png" group-title="Turkish",ATV
-https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1761080308&st=9ppLuSQRbRjjy3e29ZLgfg&sid=7uio0y5r3vmr&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1763684960&st=YYx1kqBcpcZJPWknzkSp-A&sid=7xi8idkzwurz&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 #EXTM3U
 #EXTINF:-8 tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png" group-title="Turkish",TV 8 (1080p)
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
@@ -21,7 +21,7 @@ https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&c
 https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=mobile_web&st=pwegVUqcuoqOr5GNHwLF9A&e=1761342326
 #EXTM3U
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Turkish",TRT Belgesel (1080p)
-https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=7ufgqrgja0dw&app=71ff325a-50b6-48f4-8a67-3daa89386c24&ce=2
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/6tv0zxh.png" group-title="Turkish",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
@@ -105,6 +105,7 @@ https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiispor2/trt-ta
 https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1761373854&st=upULamuR-aXSPX-Z0BZyRw&sid=7uusgi4vq7yq&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.postimg.cc/mkNFsP0g/atv.png" group-title="Turkish",ATV
 https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=upULamuR-aXSPX-Z0BZyRw&e=1761373854&ppid=5e751fcb687d211be5b1ca5fe07b6269&gdpr=0&dfp_paln=AQzzBGQEI_2EZs6CjvR7EimV3_36wpAHEbbR67MWg3XGkvk3-bCgMEE0Ubvd3eNjRkl0pzMO2CZWoxGN1blL_GP50tWaBb_P4TyKDYslOteZH8ifvb5PEuWx3QaingyDDpmCJ7sJJQIVYwXGnnFOhchQO2VNQ7aC-Qb8eG1u3vbou3XUKouh8pmuNKqmFoza6uD3BEbH_ssrsbtTSbpwF9DfDnzczp8uFyJ97HyCPAbNfLKSBJXyJy1HwH8PwE-dkdbCH2RQXvjzkCZde0J7xNDJhTzN7leGwKZDeVEjJdTzrHa_kkeJKENbk5cXs8z1guOM2-MDceCiajdv2YKlacmSHrH--oejhT4Yb7rCZGIF4PWf__Q5rLYVmMgiCAvqULwP8BG_FZ3C0fTqVekJepJGHrD8aLcWY9EgRr5nxi_iT4kMBVQR10poH2ICfJhZKqU494ZEybvK49b5RMY89FCK4V3Zpxy34LUD4ZMoT7RUi31B_5h1L0Ii8V0L9EAioc0yx2BQPe_r1gGePZvDM9j6o1q3L6_o2Dyxs8_opZW-tXDD_LT3r-Onag1zKBtt6ZEKMRKlSCDpzzyt_CFHsEiVuVj96RCyabb_LdbFc_Kdp75LAjcHl_ZqxbUC9b0XAu757lQZiLm_mZVvbGoLhTeGNHCArqbdPMG7CV-pvLZ6N6c_lSWsoMn7CqJ2R-wy820OGJF7bFFzsqKP7-Gr0lUNN87GE63uS6Pxd8wHVdnuNu_Ef3E2JiqTyWvy2llX1S_HP9XLol8zqxIYHMIrfQ3GgkgKU-aSsIrRVhlUBXXMC5Jo0HgHaw_1nr9TH01ONfB4W_O3nOxN39SRNuuH7sYsjbdZVXeAg02-2O3pehT_jSfzyQ1LnHX-Zzog2Gh2UE0PQwTPWsiKaIVanGyu6NAjjqg5z0w1FzaVvoR3QhzGjF2ZytSYM_2KUNr-yK-URm_WQ_6YUKr9yprov7-UL37neGfWeOq84MKNNapAxk9oGgEp1pXilqFIBD_VoVoRnYT3HNukTZ03sfH3qjW9oybo
+
 
 
 
