@@ -11,7 +11,7 @@ https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Turkish",Star TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7ufggiyu05ov&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 #EXTM3U
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.postimg.cc/mkNFsP0g/atv.png" group-title="Turkish",ATV
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATVvv" tvg-logo="https://i.postimg.cc/mkNFsP0g/atv.png" group-title="Turkish",ATVv
 https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1764999522&st=zuHJKtcF-8X7TshRR4PXfw&sid=7z0iy55hcbbr&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 #EXTM3U
 #EXTINF:-8 tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png" group-title="Turkish",TV 8 (1080p)
@@ -87,6 +87,7 @@ https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-id="FunRoads.us" tvg-name="Fun Roads" tvg-logo="https://i.imgur.com/2Q6TENm.png" group-title="travel;English",Fun Roads
 https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
+
 
 
 
