@@ -12,7 +12,7 @@ https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7ufggiyu05ov&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 #EXTM3U
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.postimg.cc/mkNFsP0g/atv.png" group-title="Turkish",ATV
-https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=jryMjSlMStCap2ZB-WrChA&e=1764789055&ppid=5e751fcb687d211be5b1ca5fe07b6269&gdpr=0&dfp_paln=AQzzBGQE1FyL0U7nKA5U3oSmO9i1qt6DnmP6yp2kMYPzVvOjfURz4ThC1A86KOz_NxQdbd9vJcLKfj8QVDcNoH1DdOo8QSBAus_SEkfh46F6daBkbxe6xjZsaO9TPhneQnHuy3Tw938S5hoYQauzsKFdhDgJA8DH63ZGSMrx6R__8GrSKG8vJDZ-pyxq8qQD77-N08hTYvhyiWTo2-BxSbEKuXUdFoJhZXWgnTN9eOw0O7m9RVQa9xw1dSLXeDmGcBtMSnBwV90HyoegzLkzHbPvpyWLa4mjrlXYA1KDYBifkQm8rBqICMvkb9Chb44PRVstnqTqMo5_mWMpstzr3Ddl86aA_rZMHevovpOg2GGss0qw75s5QbR5fTFd-NfmP1yTS6Yi_NEvq9TVmfyIX5OL36z4versfT1NYXAbfGqrsVYQNEPPXfesRoMsHkbvDgXXqokV6ikjODc7jxEXMGlICR_qdkfwvfev5xuGS6fY0IAAryA0uhzaR4Gt3vBbr_Wu-sDKa68YwaGU0bCdG2hU8qjsKfhfPcuWj96a14dTM9CITE1qT2oSe9nPSFMHLQrG6-jangvTkYqzmcSgB0WBQgz5WNFFS6vWsvsGWPOmYBQ_gGzBHt3QWImbgAXNbGXfn91MaGO8jvsBFXM5uK_radsE4n3VI2uijtXzjJzHVON87QCC4woKeoSjAMZlXsmDW8qi3p3KL4C1zSedCvDZ1lTYkQsddYJDz21e58mbXOIH6G6C-CLUWUaip5rEx9muuJ8EmEmO0PcYK-0wVThfwUtdPzKzIptf7UryW_qkZFuSXcSPfZyl1G8btKyukUG9N0qrnfW1qzCFgOOkynID0yUUSxZvaWD7VxLhGOiQfIhsBKqVfhFs2sGw-ZcI8tpvh3ia62dEihf52nWvhQKyW8A3bicF6z5uWvZLdUr-iPGunW5eV4hWv9XkaT6w2LTogpqldjyea5FIdlI_o_sDrqJzdjZj4OKiTPUJXcgz_ZNZwh5duyaIRgyUNIlVFYTpyaNpojNCD7_cLDcHELItx6qnsXupxnN20R2uOdLOgtbwNwzxey7_uVzdC3go4JDvmE38i_3u2i1PblmceO4jHDYMVELtmVwBdg..
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1764999522&st=zuHJKtcF-8X7TshRR4PXfw&sid=7z0iy55hcbbr&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 #EXTM3U
 #EXTINF:-8 tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png" group-title="Turkish",TV 8 (1080p)
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
@@ -87,6 +87,7 @@ https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-id="FunRoads.us" tvg-name="Fun Roads" tvg-logo="https://i.imgur.com/2Q6TENm.png" group-title="travel;English",Fun Roads
 https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
+
 
 
 
