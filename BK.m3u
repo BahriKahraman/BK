@@ -68,8 +68,8 @@ https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="ToonGoggles" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="kids;English",ToonGoggles
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 #EXTM3U
-#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel!" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="kids;English",Kartoon Channel!
-https://livetv-fa.tubi.video/kartoon/kc_co.m3u8
+#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel!" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="kids;English",PBS KIDS
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="GoUSATV.us" tvg-name="GoUSA TV" tvg-logo="https://i.imgur.com/x90ALip.png" group-title="travel;English",GoUSA TV
 https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
@@ -93,6 +93,7 @@ https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-id="FunRoads.us" tvg-name="Fun Roads" tvg-logo="https://i.imgur.com/2Q6TENm.png" group-title="travel;English",Fun Roads
 https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
+
 
 
 
